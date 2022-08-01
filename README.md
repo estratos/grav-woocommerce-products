@@ -1,5 +1,5 @@
 ## Grav WooCommerce Products Plugin
-This **Woocommere Products** Plugin is for [Grav CMS](http://github.com/getgrav/grav). It will look for plaintext email addresses in your Grav pages and turn them into javascript encoded mailto links.
+This **Woocommere Products** Plugin is for [Grav CMS](http://github.com/getgrav/grav). It will look for plugin shorcodes in your Grav pages and turn them into Woocommerce Listings.
 
 ## Installation
 

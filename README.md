@@ -25,3 +25,9 @@ You should now have all the plugin files under
 
 > NOTE: This plugin is a modular component for Grav which requires [Grav](http://github.com/getgrav/grav) and the [Error](https://github.com/getgrav/grav-plugin-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) to operate.
 ## Configuration
+
+
+## Usage
+
+```
+[woocommerce sku=213234][/woocommercen]
